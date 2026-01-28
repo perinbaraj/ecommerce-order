@@ -1,0 +1,3147 @@
+[
+  {
+    "id": "ORD-000001",
+    "customerId": "CUST-00079",
+    "customerName": "David Rodriguez",
+    "orderDate": "2025-12-26T06:47:38.285Z",
+    "location": {
+      "city": "Austin",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-6066",
+        "productName": "External SSD 1TB",
+        "quantity": 3,
+        "unitPrice": 119.99,
+        "totalPrice": 359.97
+      }
+    ],
+    "orderValue": 359.97,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "474 Cedar Ln",
+      "city": "San Diego",
+      "state": "CA",
+      "zipCode": "76813"
+    }
+  },
+  {
+    "id": "ORD-000002",
+    "customerId": "CUST-00405",
+    "customerName": "Charles Lopez",
+    "orderDate": "2025-12-05T06:47:38.286Z",
+    "location": {
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    "items": [
+      {
+        "productId": "PROD-5231",
+        "productName": "USB-C Cable",
+        "quantity": 2,
+        "unitPrice": 14.99,
+        "totalPrice": 29.98
+      },
+      {
+        "productId": "PROD-4052",
+        "productName": "Phone Case",
+        "quantity": 2,
+        "unitPrice": 19.99,
+        "totalPrice": 39.98
+      }
+    ],
+    "orderValue": 69.96,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "7328 Hill Rd",
+      "city": "San Antonio",
+      "state": "TX",
+      "zipCode": "86004"
+    }
+  },
+  {
+    "id": "ORD-000003",
+    "customerId": "CUST-00242",
+    "customerName": "Christopher Martinez",
+    "orderDate": "2025-11-13T06:47:38.287Z",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "items": [
+      {
+        "productId": "PROD-6254",
+        "productName": "Monitor 27\"",
+        "quantity": 1,
+        "unitPrice": 349.99,
+        "totalPrice": 349.99
+      },
+      {
+        "productId": "PROD-8226",
+        "productName": "Gaming Mouse",
+        "quantity": 2,
+        "unitPrice": 59.99,
+        "totalPrice": 119.98
+      },
+      {
+        "productId": "PROD-3484",
+        "productName": "Wireless Headphones",
+        "quantity": 2,
+        "unitPrice": 79.99,
+        "totalPrice": 159.98
+      }
+    ],
+    "orderValue": 629.95,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "2400 Washington Blvd",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "83826"
+    }
+  },
+  {
+    "id": "ORD-000004",
+    "customerId": "CUST-00388",
+    "customerName": "Elizabeth Miller",
+    "orderDate": "2025-10-30T06:47:38.287Z",
+    "location": {
+      "city": "Miami",
+      "state": "FL"
+    },
+    "items": [
+      {
+        "productId": "PROD-8181",
+        "productName": "Tablet Stand",
+        "quantity": 2,
+        "unitPrice": 22.99,
+        "totalPrice": 45.98
+      },
+      {
+        "productId": "PROD-5995",
+        "productName": "Ergonomic Chair",
+        "quantity": 1,
+        "unitPrice": 299.99,
+        "totalPrice": 299.99
+      },
+      {
+        "productId": "PROD-5821",
+        "productName": "Power Bank",
+        "quantity": 2,
+        "unitPrice": 34.99,
+        "totalPrice": 69.98
+      },
+      {
+        "productId": "PROD-6647",
+        "productName": "Laptop Backpack",
+        "quantity": 2,
+        "unitPrice": 54.99,
+        "totalPrice": 109.98
+      }
+    ],
+    "orderValue": 525.93,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "2754 Washington Blvd",
+      "city": "Atlanta",
+      "state": "GA",
+      "zipCode": "44661"
+    }
+  },
+  {
+    "id": "ORD-000005",
+    "customerId": "CUST-00260",
+    "customerName": "Sarah Allen",
+    "orderDate": "2025-12-09T06:47:38.287Z",
+    "location": {
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    "items": [
+      {
+        "productId": "PROD-7803",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 3,
+        "unitPrice": 24.99,
+        "totalPrice": 74.97
+      }
+    ],
+    "orderValue": 74.97,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "4597 Forest Ln",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zipCode": "32846"
+    }
+  },
+  {
+    "id": "ORD-000006",
+    "customerId": "CUST-00166",
+    "customerName": "Lisa Davis",
+    "orderDate": "2025-11-06T06:47:38.287Z",
+    "location": {
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "items": [
+      {
+        "productId": "PROD-2075",
+        "productName": "Laptop Backpack",
+        "quantity": 1,
+        "unitPrice": 54.99,
+        "totalPrice": 54.99
+      },
+      {
+        "productId": "PROD-1892",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 1,
+        "unitPrice": 149.99,
+        "totalPrice": 149.99
+      },
+      {
+        "productId": "PROD-7988",
+        "productName": "Ergonomic Chair",
+        "quantity": 2,
+        "unitPrice": 299.99,
+        "totalPrice": 599.98
+      },
+      {
+        "productId": "PROD-4029",
+        "productName": "Wireless Charger",
+        "quantity": 2,
+        "unitPrice": 29.99,
+        "totalPrice": 59.98
+      },
+      {
+        "productId": "PROD-4816",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 2,
+        "unitPrice": 24.99,
+        "totalPrice": 49.98
+      }
+    ],
+    "orderValue": 914.92,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "6527 Cedar Ln",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "25699"
+    }
+  },
+  {
+    "id": "ORD-000007",
+    "customerId": "CUST-00423",
+    "customerName": "Elizabeth Walker",
+    "orderDate": "2026-01-02T06:47:38.287Z",
+    "location": {
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    "items": [
+      {
+        "productId": "PROD-1694",
+        "productName": "Desk Lamp",
+        "quantity": 3,
+        "unitPrice": 44.99,
+        "totalPrice": 134.97
+      }
+    ],
+    "orderValue": 134.97,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "2013 Market St",
+      "city": "Detroit",
+      "state": "MI",
+      "zipCode": "53969"
+    }
+  },
+  {
+    "id": "ORD-000008",
+    "customerId": "CUST-00024",
+    "customerName": "Sarah Gonzalez",
+    "orderDate": "2025-12-04T06:47:38.287Z",
+    "location": {
+      "city": "Detroit",
+      "state": "MI"
+    },
+    "items": [
+      {
+        "productId": "PROD-4192",
+        "productName": "Webcam HD",
+        "quantity": 2,
+        "unitPrice": 89.99,
+        "totalPrice": 179.98
+      },
+      {
+        "productId": "PROD-5986",
+        "productName": "Mechanical Keyboard",
+        "quantity": 3,
+        "unitPrice": 129.99,
+        "totalPrice": 389.97
+      }
+    ],
+    "orderValue": 569.95,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "5520 Broadway",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "43795"
+    }
+  },
+  {
+    "id": "ORD-000009",
+    "customerId": "CUST-00481",
+    "customerName": "James Taylor",
+    "orderDate": "2025-11-22T06:47:38.287Z",
+    "location": {
+      "city": "Portland",
+      "state": "OR"
+    },
+    "items": [
+      {
+        "productId": "PROD-7354",
+        "productName": "Smart Watch",
+        "quantity": 1,
+        "unitPrice": 249.99,
+        "totalPrice": 249.99
+      },
+      {
+        "productId": "PROD-5916",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 3,
+        "unitPrice": 24.99,
+        "totalPrice": 74.97
+      }
+    ],
+    "orderValue": 324.96,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "7850 Oak Ave",
+      "city": "Portland",
+      "state": "OR",
+      "zipCode": "38327"
+    }
+  },
+  {
+    "id": "ORD-000010",
+    "customerId": "CUST-00444",
+    "customerName": "Sarah Rodriguez",
+    "orderDate": "2026-01-14T06:47:38.287Z",
+    "location": {
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    "items": [
+      {
+        "productId": "PROD-8775",
+        "productName": "Laptop Backpack",
+        "quantity": 1,
+        "unitPrice": 54.99,
+        "totalPrice": 54.99
+      },
+      {
+        "productId": "PROD-4799",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 1,
+        "unitPrice": 149.99,
+        "totalPrice": 149.99
+      }
+    ],
+    "orderValue": 204.98,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "802 Oak Ave",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zipCode": "64711"
+    }
+  },
+  {
+    "id": "ORD-000011",
+    "customerId": "CUST-00442",
+    "customerName": "Sarah Lopez",
+    "orderDate": "2025-12-31T06:47:38.287Z",
+    "location": {
+      "city": "Houston",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-3213",
+        "productName": "Laptop Stand",
+        "quantity": 2,
+        "unitPrice": 39.99,
+        "totalPrice": 79.98
+      },
+      {
+        "productId": "PROD-4142",
+        "productName": "External SSD 1TB",
+        "quantity": 3,
+        "unitPrice": 119.99,
+        "totalPrice": 359.97
+      },
+      {
+        "productId": "PROD-4060",
+        "productName": "Phone Case",
+        "quantity": 1,
+        "unitPrice": 19.99,
+        "totalPrice": 19.99
+      },
+      {
+        "productId": "PROD-1828",
+        "productName": "Mechanical Keyboard",
+        "quantity": 1,
+        "unitPrice": 129.99,
+        "totalPrice": 129.99
+      }
+    ],
+    "orderValue": 589.93,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "247 Maple Dr",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "29884"
+    }
+  },
+  {
+    "id": "ORD-000012",
+    "customerId": "CUST-00061",
+    "customerName": "Jessica Lopez",
+    "orderDate": "2025-12-30T06:47:38.287Z",
+    "location": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "items": [
+      {
+        "productId": "PROD-9162",
+        "productName": "Screen Protector",
+        "quantity": 3,
+        "unitPrice": 12.99,
+        "totalPrice": 38.97
+      },
+      {
+        "productId": "PROD-9151",
+        "productName": "Wireless Charger",
+        "quantity": 1,
+        "unitPrice": 29.99,
+        "totalPrice": 29.99
+      }
+    ],
+    "orderValue": 68.96,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "782 Main St",
+      "city": "Portland",
+      "state": "OR",
+      "zipCode": "24190"
+    }
+  },
+  {
+    "id": "ORD-000013",
+    "customerId": "CUST-00139",
+    "customerName": "James Allen",
+    "orderDate": "2025-11-09T06:47:38.287Z",
+    "location": {
+      "city": "Austin",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-7430",
+        "productName": "Webcam HD",
+        "quantity": 2,
+        "unitPrice": 89.99,
+        "totalPrice": 179.98
+      },
+      {
+        "productId": "PROD-5396",
+        "productName": "Tablet Stand",
+        "quantity": 2,
+        "unitPrice": 22.99,
+        "totalPrice": 45.98
+      },
+      {
+        "productId": "PROD-8468",
+        "productName": "Wireless Charger",
+        "quantity": 2,
+        "unitPrice": 29.99,
+        "totalPrice": 59.98
+      },
+      {
+        "productId": "PROD-6724",
+        "productName": "Desk Lamp",
+        "quantity": 2,
+        "unitPrice": 44.99,
+        "totalPrice": 89.98
+      }
+    ],
+    "orderValue": 375.92,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "9750 Maple Dr",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "30467"
+    }
+  },
+  {
+    "id": "ORD-000014",
+    "customerId": "CUST-00035",
+    "customerName": "Robert Martin",
+    "orderDate": "2025-12-03T06:47:38.287Z",
+    "location": {
+      "city": "Detroit",
+      "state": "MI"
+    },
+    "items": [
+      {
+        "productId": "PROD-1685",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 1,
+        "unitPrice": 24.99,
+        "totalPrice": 24.99
+      },
+      {
+        "productId": "PROD-2247",
+        "productName": "Desk Lamp",
+        "quantity": 2,
+        "unitPrice": 44.99,
+        "totalPrice": 89.98
+      },
+      {
+        "productId": "PROD-2972",
+        "productName": "Tablet Stand",
+        "quantity": 2,
+        "unitPrice": 22.99,
+        "totalPrice": 45.98
+      }
+    ],
+    "orderValue": 160.95,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "5169 Sunset Blvd",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "53548"
+    }
+  },
+  {
+    "id": "ORD-000015",
+    "customerId": "CUST-00141",
+    "customerName": "Jessica Anderson",
+    "orderDate": "2025-11-28T06:47:38.287Z",
+    "location": {
+      "city": "Jacksonville",
+      "state": "FL"
+    },
+    "items": [
+      {
+        "productId": "PROD-2833",
+        "productName": "Webcam HD",
+        "quantity": 3,
+        "unitPrice": 89.99,
+        "totalPrice": 269.97
+      }
+    ],
+    "orderValue": 269.97,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "3859 Lake St",
+      "city": "Portland",
+      "state": "OR",
+      "zipCode": "89546"
+    }
+  },
+  {
+    "id": "ORD-000016",
+    "customerId": "CUST-00029",
+    "customerName": "Nancy Moore",
+    "orderDate": "2025-11-05T06:47:38.287Z",
+    "location": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "items": [
+      {
+        "productId": "PROD-2587",
+        "productName": "Tablet Stand",
+        "quantity": 1,
+        "unitPrice": 22.99,
+        "totalPrice": 22.99
+      }
+    ],
+    "orderValue": 22.99,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "6549 Washington Blvd",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "70023"
+    }
+  },
+  {
+    "id": "ORD-000017",
+    "customerId": "CUST-00434",
+    "customerName": "Jennifer Hall",
+    "orderDate": "2025-12-16T06:47:38.287Z",
+    "location": {
+      "city": "San Antonio",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-6242",
+        "productName": "Laptop Backpack",
+        "quantity": 1,
+        "unitPrice": 54.99,
+        "totalPrice": 54.99
+      },
+      {
+        "productId": "PROD-9759",
+        "productName": "Wireless Charger",
+        "quantity": 2,
+        "unitPrice": 29.99,
+        "totalPrice": 59.98
+      }
+    ],
+    "orderValue": 114.97,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "4380 Sunset Blvd",
+      "city": "Dallas",
+      "state": "TX",
+      "zipCode": "68221"
+    }
+  },
+  {
+    "id": "ORD-000018",
+    "customerId": "CUST-00001",
+    "customerName": "James Allen",
+    "orderDate": "2025-11-18T06:47:38.287Z",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "items": [
+      {
+        "productId": "PROD-4881",
+        "productName": "Bluetooth Speaker",
+        "quantity": 1,
+        "unitPrice": 49.99,
+        "totalPrice": 49.99
+      },
+      {
+        "productId": "PROD-1311",
+        "productName": "Laptop Backpack",
+        "quantity": 3,
+        "unitPrice": 54.99,
+        "totalPrice": 164.97
+      },
+      {
+        "productId": "PROD-7640",
+        "productName": "Laptop Stand",
+        "quantity": 1,
+        "unitPrice": 39.99,
+        "totalPrice": 39.99
+      }
+    ],
+    "orderValue": 254.95,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "4691 Elm St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "35591"
+    }
+  },
+  {
+    "id": "ORD-000019",
+    "customerId": "CUST-00006",
+    "customerName": "Charles Taylor",
+    "orderDate": "2025-12-05T06:47:38.287Z",
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "items": [
+      {
+        "productId": "PROD-7745",
+        "productName": "Gaming Mouse",
+        "quantity": 2,
+        "unitPrice": 59.99,
+        "totalPrice": 119.98
+      },
+      {
+        "productId": "PROD-7868",
+        "productName": "Smart Watch",
+        "quantity": 3,
+        "unitPrice": 249.99,
+        "totalPrice": 749.97
+      },
+      {
+        "productId": "PROD-3658",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 3,
+        "unitPrice": 24.99,
+        "totalPrice": 74.97
+      },
+      {
+        "productId": "PROD-5390",
+        "productName": "Mechanical Keyboard",
+        "quantity": 1,
+        "unitPrice": 129.99,
+        "totalPrice": 129.99
+      },
+      {
+        "productId": "PROD-9444",
+        "productName": "USB-C Cable",
+        "quantity": 1,
+        "unitPrice": 14.99,
+        "totalPrice": 14.99
+      }
+    ],
+    "orderValue": 1089.9,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "4081 Main St",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zipCode": "46411"
+    }
+  },
+  {
+    "id": "ORD-000020",
+    "customerId": "CUST-00456",
+    "customerName": "David Jackson",
+    "orderDate": "2025-11-02T06:47:38.287Z",
+    "location": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "items": [
+      {
+        "productId": "PROD-2700",
+        "productName": "Mechanical Keyboard",
+        "quantity": 2,
+        "unitPrice": 129.99,
+        "totalPrice": 259.98
+      },
+      {
+        "productId": "PROD-5169",
+        "productName": "Bluetooth Speaker",
+        "quantity": 3,
+        "unitPrice": 49.99,
+        "totalPrice": 149.97
+      },
+      {
+        "productId": "PROD-8632",
+        "productName": "Ergonomic Chair",
+        "quantity": 1,
+        "unitPrice": 299.99,
+        "totalPrice": 299.99
+      },
+      {
+        "productId": "PROD-1027",
+        "productName": "Laptop Stand",
+        "quantity": 3,
+        "unitPrice": 39.99,
+        "totalPrice": 119.97
+      },
+      {
+        "productId": "PROD-5378",
+        "productName": "Tablet Stand",
+        "quantity": 3,
+        "unitPrice": 22.99,
+        "totalPrice": 68.97
+      }
+    ],
+    "orderValue": 898.88,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "3534 Oak Ave",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zipCode": "30100"
+    }
+  },
+  {
+    "id": "ORD-000021",
+    "customerId": "CUST-00472",
+    "customerName": "Elizabeth Rodriguez",
+    "orderDate": "2025-12-30T06:47:38.287Z",
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "items": [
+      {
+        "productId": "PROD-1432",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 1,
+        "unitPrice": 24.99,
+        "totalPrice": 24.99
+      }
+    ],
+    "orderValue": 24.99,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "3823 Elm St",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zipCode": "83088"
+    }
+  },
+  {
+    "id": "ORD-000022",
+    "customerId": "CUST-00436",
+    "customerName": "James Brown",
+    "orderDate": "2025-12-28T06:47:38.287Z",
+    "location": {
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "items": [
+      {
+        "productId": "PROD-6581",
+        "productName": "Desk Lamp",
+        "quantity": 2,
+        "unitPrice": 44.99,
+        "totalPrice": 89.98
+      },
+      {
+        "productId": "PROD-8621",
+        "productName": "Smart Watch",
+        "quantity": 3,
+        "unitPrice": 249.99,
+        "totalPrice": 749.97
+      }
+    ],
+    "orderValue": 839.95,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "8818 Elm St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "94454"
+    }
+  },
+  {
+    "id": "ORD-000023",
+    "customerId": "CUST-00278",
+    "customerName": "Mary Johnson",
+    "orderDate": "2025-12-12T06:47:38.287Z",
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "items": [
+      {
+        "productId": "PROD-4759",
+        "productName": "Mechanical Keyboard",
+        "quantity": 3,
+        "unitPrice": 129.99,
+        "totalPrice": 389.97
+      },
+      {
+        "productId": "PROD-3388",
+        "productName": "Smart Watch",
+        "quantity": 1,
+        "unitPrice": 249.99,
+        "totalPrice": 249.99
+      },
+      {
+        "productId": "PROD-4388",
+        "productName": "Desk Lamp",
+        "quantity": 3,
+        "unitPrice": 44.99,
+        "totalPrice": 134.97
+      }
+    ],
+    "orderValue": 774.93,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "1631 Washington Blvd",
+      "city": "Houston",
+      "state": "TX",
+      "zipCode": "12246"
+    }
+  },
+  {
+    "id": "ORD-000024",
+    "customerId": "CUST-00403",
+    "customerName": "Richard Allen",
+    "orderDate": "2026-01-25T06:47:38.287Z",
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "items": [
+      {
+        "productId": "PROD-8667",
+        "productName": "Mechanical Keyboard",
+        "quantity": 1,
+        "unitPrice": 129.99,
+        "totalPrice": 129.99
+      },
+      {
+        "productId": "PROD-3290",
+        "productName": "Desk Lamp",
+        "quantity": 3,
+        "unitPrice": 44.99,
+        "totalPrice": 134.97
+      },
+      {
+        "productId": "PROD-5847",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 2,
+        "unitPrice": 149.99,
+        "totalPrice": 299.98
+      },
+      {
+        "productId": "PROD-6825",
+        "productName": "Wireless Charger",
+        "quantity": 3,
+        "unitPrice": 29.99,
+        "totalPrice": 89.97
+      },
+      {
+        "productId": "PROD-4965",
+        "productName": "Bluetooth Speaker",
+        "quantity": 2,
+        "unitPrice": 49.99,
+        "totalPrice": 99.98
+      }
+    ],
+    "orderValue": 754.89,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "7257 Forest Ln",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "33863"
+    }
+  },
+  {
+    "id": "ORD-000025",
+    "customerId": "CUST-00180",
+    "customerName": "Susan Moore",
+    "orderDate": "2025-11-14T06:47:38.287Z",
+    "location": {
+      "city": "Atlanta",
+      "state": "GA"
+    },
+    "items": [
+      {
+        "productId": "PROD-5365",
+        "productName": "Webcam HD",
+        "quantity": 2,
+        "unitPrice": 89.99,
+        "totalPrice": 179.98
+      },
+      {
+        "productId": "PROD-2530",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 3,
+        "unitPrice": 24.99,
+        "totalPrice": 74.97
+      }
+    ],
+    "orderValue": 254.95,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "878 Elm St",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zipCode": "71562"
+    }
+  },
+  {
+    "id": "ORD-000026",
+    "customerId": "CUST-00290",
+    "customerName": "John Lee",
+    "orderDate": "2026-01-16T06:47:38.287Z",
+    "location": {
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    "items": [
+      {
+        "productId": "PROD-3817",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 1,
+        "unitPrice": 149.99,
+        "totalPrice": 149.99
+      },
+      {
+        "productId": "PROD-4790",
+        "productName": "Monitor 27\"",
+        "quantity": 3,
+        "unitPrice": 349.99,
+        "totalPrice": 1049.97
+      },
+      {
+        "productId": "PROD-6296",
+        "productName": "Mechanical Keyboard",
+        "quantity": 1,
+        "unitPrice": 129.99,
+        "totalPrice": 129.99
+      },
+      {
+        "productId": "PROD-2113",
+        "productName": "Phone Case",
+        "quantity": 1,
+        "unitPrice": 19.99,
+        "totalPrice": 19.99
+      },
+      {
+        "productId": "PROD-5644",
+        "productName": "Laptop Stand",
+        "quantity": 1,
+        "unitPrice": 39.99,
+        "totalPrice": 39.99
+      }
+    ],
+    "orderValue": 1389.93,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "6598 Elm St",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zipCode": "37991"
+    }
+  },
+  {
+    "id": "ORD-000027",
+    "customerId": "CUST-00317",
+    "customerName": "William Davis",
+    "orderDate": "2026-01-04T06:47:38.287Z",
+    "location": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "items": [
+      {
+        "productId": "PROD-3495",
+        "productName": "Webcam HD",
+        "quantity": 2,
+        "unitPrice": 89.99,
+        "totalPrice": 179.98
+      },
+      {
+        "productId": "PROD-7892",
+        "productName": "Wireless Charger",
+        "quantity": 1,
+        "unitPrice": 29.99,
+        "totalPrice": 29.99
+      },
+      {
+        "productId": "PROD-8786",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 1,
+        "unitPrice": 24.99,
+        "totalPrice": 24.99
+      },
+      {
+        "productId": "PROD-9989",
+        "productName": "Mechanical Keyboard",
+        "quantity": 2,
+        "unitPrice": 129.99,
+        "totalPrice": 259.98
+      }
+    ],
+    "orderValue": 494.94,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "9533 Elm St",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "68174"
+    }
+  },
+  {
+    "id": "ORD-000028",
+    "customerId": "CUST-00409",
+    "customerName": "Lisa Thomas",
+    "orderDate": "2025-12-08T06:47:38.287Z",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "items": [
+      {
+        "productId": "PROD-6252",
+        "productName": "Power Bank",
+        "quantity": 3,
+        "unitPrice": 34.99,
+        "totalPrice": 104.97
+      },
+      {
+        "productId": "PROD-2212",
+        "productName": "External SSD 1TB",
+        "quantity": 3,
+        "unitPrice": 119.99,
+        "totalPrice": 359.97
+      },
+      {
+        "productId": "PROD-5045",
+        "productName": "Monitor 27\"",
+        "quantity": 1,
+        "unitPrice": 349.99,
+        "totalPrice": 349.99
+      }
+    ],
+    "orderValue": 814.93,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "6976 Market St",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "26143"
+    }
+  },
+  {
+    "id": "ORD-000029",
+    "customerId": "CUST-00340",
+    "customerName": "Sarah Jackson",
+    "orderDate": "2026-01-07T06:47:38.287Z",
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ"
+    },
+    "items": [
+      {
+        "productId": "PROD-2919",
+        "productName": "Mechanical Keyboard",
+        "quantity": 3,
+        "unitPrice": 129.99,
+        "totalPrice": 389.97
+      },
+      {
+        "productId": "PROD-4772",
+        "productName": "Desk Lamp",
+        "quantity": 1,
+        "unitPrice": 44.99,
+        "totalPrice": 44.99
+      },
+      {
+        "productId": "PROD-3847",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 2,
+        "unitPrice": 24.99,
+        "totalPrice": 49.98
+      },
+      {
+        "productId": "PROD-1968",
+        "productName": "Ergonomic Chair",
+        "quantity": 1,
+        "unitPrice": 299.99,
+        "totalPrice": 299.99
+      },
+      {
+        "productId": "PROD-9950",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 1,
+        "unitPrice": 149.99,
+        "totalPrice": 149.99
+      }
+    ],
+    "orderValue": 934.92,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "9512 Pine Rd",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "87799"
+    }
+  },
+  {
+    "id": "ORD-000030",
+    "customerId": "CUST-00019",
+    "customerName": "Sarah Smith",
+    "orderDate": "2025-10-30T06:47:38.287Z",
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "items": [
+      {
+        "productId": "PROD-5679",
+        "productName": "External SSD 1TB",
+        "quantity": 2,
+        "unitPrice": 119.99,
+        "totalPrice": 239.98
+      },
+      {
+        "productId": "PROD-1230",
+        "productName": "Laptop Stand",
+        "quantity": 2,
+        "unitPrice": 39.99,
+        "totalPrice": 79.98
+      },
+      {
+        "productId": "PROD-2980",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 1,
+        "unitPrice": 24.99,
+        "totalPrice": 24.99
+      },
+      {
+        "productId": "PROD-3069",
+        "productName": "Smart Watch",
+        "quantity": 2,
+        "unitPrice": 249.99,
+        "totalPrice": 499.98
+      }
+    ],
+    "orderValue": 844.93,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "239 Main St",
+      "city": "San Antonio",
+      "state": "TX",
+      "zipCode": "42343"
+    }
+  },
+  {
+    "id": "ORD-000031",
+    "customerId": "CUST-00153",
+    "customerName": "Thomas Allen",
+    "orderDate": "2025-12-07T06:47:38.287Z",
+    "location": {
+      "city": "San Jose",
+      "state": "CA"
+    },
+    "items": [
+      {
+        "productId": "PROD-6382",
+        "productName": "Bluetooth Speaker",
+        "quantity": 2,
+        "unitPrice": 49.99,
+        "totalPrice": 99.98
+      },
+      {
+        "productId": "PROD-6127",
+        "productName": "Ergonomic Chair",
+        "quantity": 1,
+        "unitPrice": 299.99,
+        "totalPrice": 299.99
+      }
+    ],
+    "orderValue": 399.97,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "2683 Cedar Ln",
+      "city": "Houston",
+      "state": "TX",
+      "zipCode": "64808"
+    }
+  },
+  {
+    "id": "ORD-000032",
+    "customerId": "CUST-00497",
+    "customerName": "David Hall",
+    "orderDate": "2025-11-11T06:47:38.287Z",
+    "location": {
+      "city": "San Antonio",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-6080",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 2,
+        "unitPrice": 24.99,
+        "totalPrice": 49.98
+      }
+    ],
+    "orderValue": 49.98,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "7363 Cedar Ln",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "64559"
+    }
+  },
+  {
+    "id": "ORD-000033",
+    "customerId": "CUST-00432",
+    "customerName": "William Moore",
+    "orderDate": "2026-01-07T06:47:38.287Z",
+    "location": {
+      "city": "Miami",
+      "state": "FL"
+    },
+    "items": [
+      {
+        "productId": "PROD-7908",
+        "productName": "Gaming Mouse",
+        "quantity": 3,
+        "unitPrice": 59.99,
+        "totalPrice": 179.97
+      },
+      {
+        "productId": "PROD-9830",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 1,
+        "unitPrice": 24.99,
+        "totalPrice": 24.99
+      },
+      {
+        "productId": "PROD-1534",
+        "productName": "Tablet Stand",
+        "quantity": 2,
+        "unitPrice": 22.99,
+        "totalPrice": 45.98
+      }
+    ],
+    "orderValue": 250.94,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "3328 River Dr",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "99967"
+    }
+  },
+  {
+    "id": "ORD-000034",
+    "customerId": "CUST-00464",
+    "customerName": "Linda Rodriguez",
+    "orderDate": "2025-12-16T06:47:38.287Z",
+    "location": {
+      "city": "San Antonio",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-6579",
+        "productName": "Screen Protector",
+        "quantity": 1,
+        "unitPrice": 12.99,
+        "totalPrice": 12.99
+      },
+      {
+        "productId": "PROD-3105",
+        "productName": "Mechanical Keyboard",
+        "quantity": 1,
+        "unitPrice": 129.99,
+        "totalPrice": 129.99
+      },
+      {
+        "productId": "PROD-7589",
+        "productName": "Smart Watch",
+        "quantity": 3,
+        "unitPrice": 249.99,
+        "totalPrice": 749.97
+      }
+    ],
+    "orderValue": 892.95,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "1950 Park Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "21379"
+    }
+  },
+  {
+    "id": "ORD-000035",
+    "customerId": "CUST-00178",
+    "customerName": "Linda Thomas",
+    "orderDate": "2025-11-30T06:47:38.287Z",
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "items": [
+      {
+        "productId": "PROD-5812",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 2,
+        "unitPrice": 24.99,
+        "totalPrice": 49.98
+      }
+    ],
+    "orderValue": 49.98,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "3040 Sunset Blvd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "78661"
+    }
+  },
+  {
+    "id": "ORD-000036",
+    "customerId": "CUST-00100",
+    "customerName": "James Miller",
+    "orderDate": "2025-12-09T06:47:38.287Z",
+    "location": {
+      "city": "Austin",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-6336",
+        "productName": "Wireless Charger",
+        "quantity": 3,
+        "unitPrice": 29.99,
+        "totalPrice": 89.97
+      }
+    ],
+    "orderValue": 89.97,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "5693 Park Ave",
+      "city": "Atlanta",
+      "state": "GA",
+      "zipCode": "81917"
+    }
+  },
+  {
+    "id": "ORD-000037",
+    "customerId": "CUST-00472",
+    "customerName": "Lisa Anderson",
+    "orderDate": "2026-01-09T06:47:38.287Z",
+    "location": {
+      "city": "San Jose",
+      "state": "CA"
+    },
+    "items": [
+      {
+        "productId": "PROD-1334",
+        "productName": "Monitor 27\"",
+        "quantity": 1,
+        "unitPrice": 349.99,
+        "totalPrice": 349.99
+      },
+      {
+        "productId": "PROD-4956",
+        "productName": "Wireless Charger",
+        "quantity": 1,
+        "unitPrice": 29.99,
+        "totalPrice": 29.99
+      },
+      {
+        "productId": "PROD-4149",
+        "productName": "Screen Protector",
+        "quantity": 1,
+        "unitPrice": 12.99,
+        "totalPrice": 12.99
+      }
+    ],
+    "orderValue": 392.97,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "8892 Washington Blvd",
+      "city": "Dallas",
+      "state": "TX",
+      "zipCode": "93079"
+    }
+  },
+  {
+    "id": "ORD-000038",
+    "customerId": "CUST-00356",
+    "customerName": "Richard Gonzalez",
+    "orderDate": "2025-10-31T06:47:38.287Z",
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "items": [
+      {
+        "productId": "PROD-9720",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 3,
+        "unitPrice": 149.99,
+        "totalPrice": 449.97
+      },
+      {
+        "productId": "PROD-9073",
+        "productName": "Ergonomic Chair",
+        "quantity": 1,
+        "unitPrice": 299.99,
+        "totalPrice": 299.99
+      },
+      {
+        "productId": "PROD-7966",
+        "productName": "Gaming Mouse",
+        "quantity": 1,
+        "unitPrice": 59.99,
+        "totalPrice": 59.99
+      },
+      {
+        "productId": "PROD-9709",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 2,
+        "unitPrice": 24.99,
+        "totalPrice": 49.98
+      },
+      {
+        "productId": "PROD-5506",
+        "productName": "Bluetooth Speaker",
+        "quantity": 2,
+        "unitPrice": 49.99,
+        "totalPrice": 99.98
+      }
+    ],
+    "orderValue": 959.91,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "4402 Forest Ln",
+      "city": "Detroit",
+      "state": "MI",
+      "zipCode": "63904"
+    }
+  },
+  {
+    "id": "ORD-000039",
+    "customerId": "CUST-00475",
+    "customerName": "David Allen",
+    "orderDate": "2025-12-24T06:47:38.287Z",
+    "location": {
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    "items": [
+      {
+        "productId": "PROD-9941",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 2,
+        "unitPrice": 149.99,
+        "totalPrice": 299.98
+      },
+      {
+        "productId": "PROD-2401",
+        "productName": "Tablet Stand",
+        "quantity": 1,
+        "unitPrice": 22.99,
+        "totalPrice": 22.99
+      },
+      {
+        "productId": "PROD-1920",
+        "productName": "Screen Protector",
+        "quantity": 1,
+        "unitPrice": 12.99,
+        "totalPrice": 12.99
+      }
+    ],
+    "orderValue": 335.96,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "736 Cedar Ln",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "91257"
+    }
+  },
+  {
+    "id": "ORD-000040",
+    "customerId": "CUST-00259",
+    "customerName": "Jennifer Anderson",
+    "orderDate": "2025-12-20T06:47:38.287Z",
+    "location": {
+      "city": "Austin",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-6711",
+        "productName": "Laptop Backpack",
+        "quantity": 1,
+        "unitPrice": 54.99,
+        "totalPrice": 54.99
+      },
+      {
+        "productId": "PROD-3923",
+        "productName": "Webcam HD",
+        "quantity": 1,
+        "unitPrice": 89.99,
+        "totalPrice": 89.99
+      },
+      {
+        "productId": "PROD-4119",
+        "productName": "Mechanical Keyboard",
+        "quantity": 2,
+        "unitPrice": 129.99,
+        "totalPrice": 259.98
+      }
+    ],
+    "orderValue": 404.96,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "2451 Hill Rd",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "97106"
+    }
+  },
+  {
+    "id": "ORD-000041",
+    "customerId": "CUST-00212",
+    "customerName": "Robert Williams",
+    "orderDate": "2025-12-26T06:47:38.287Z",
+    "location": {
+      "city": "Atlanta",
+      "state": "GA"
+    },
+    "items": [
+      {
+        "productId": "PROD-2842",
+        "productName": "Phone Case",
+        "quantity": 3,
+        "unitPrice": 19.99,
+        "totalPrice": 59.97
+      },
+      {
+        "productId": "PROD-9384",
+        "productName": "Ergonomic Chair",
+        "quantity": 2,
+        "unitPrice": 299.99,
+        "totalPrice": 599.98
+      }
+    ],
+    "orderValue": 659.95,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "1899 Elm St",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "45272"
+    }
+  },
+  {
+    "id": "ORD-000042",
+    "customerId": "CUST-00143",
+    "customerName": "Jennifer Jones",
+    "orderDate": "2026-01-15T06:47:38.287Z",
+    "location": {
+      "city": "San Antonio",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-8971",
+        "productName": "Smart Watch",
+        "quantity": 1,
+        "unitPrice": 249.99,
+        "totalPrice": 249.99
+      },
+      {
+        "productId": "PROD-8614",
+        "productName": "Tablet Stand",
+        "quantity": 2,
+        "unitPrice": 22.99,
+        "totalPrice": 45.98
+      },
+      {
+        "productId": "PROD-8762",
+        "productName": "Wireless Charger",
+        "quantity": 1,
+        "unitPrice": 29.99,
+        "totalPrice": 29.99
+      },
+      {
+        "productId": "PROD-9961",
+        "productName": "Desk Lamp",
+        "quantity": 2,
+        "unitPrice": 44.99,
+        "totalPrice": 89.98
+      },
+      {
+        "productId": "PROD-3513",
+        "productName": "Power Bank",
+        "quantity": 2,
+        "unitPrice": 34.99,
+        "totalPrice": 69.98
+      }
+    ],
+    "orderValue": 485.92,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "7395 Washington Blvd",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "14766"
+    }
+  },
+  {
+    "id": "ORD-000043",
+    "customerId": "CUST-00110",
+    "customerName": "James Taylor",
+    "orderDate": "2025-12-06T06:47:38.287Z",
+    "location": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "items": [
+      {
+        "productId": "PROD-8821",
+        "productName": "Monitor 27\"",
+        "quantity": 2,
+        "unitPrice": 349.99,
+        "totalPrice": 699.98
+      },
+      {
+        "productId": "PROD-9374",
+        "productName": "External SSD 1TB",
+        "quantity": 1,
+        "unitPrice": 119.99,
+        "totalPrice": 119.99
+      },
+      {
+        "productId": "PROD-4579",
+        "productName": "Mechanical Keyboard",
+        "quantity": 2,
+        "unitPrice": 129.99,
+        "totalPrice": 259.98
+      },
+      {
+        "productId": "PROD-8144",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 2,
+        "unitPrice": 24.99,
+        "totalPrice": 49.98
+      }
+    ],
+    "orderValue": 1129.93,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "3561 Pine Rd",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "13049"
+    }
+  },
+  {
+    "id": "ORD-000044",
+    "customerId": "CUST-00378",
+    "customerName": "Sarah Allen",
+    "orderDate": "2025-11-18T06:47:38.287Z",
+    "location": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "items": [
+      {
+        "productId": "PROD-5654",
+        "productName": "Laptop Stand",
+        "quantity": 3,
+        "unitPrice": 39.99,
+        "totalPrice": 119.97
+      },
+      {
+        "productId": "PROD-9341",
+        "productName": "Webcam HD",
+        "quantity": 2,
+        "unitPrice": 89.99,
+        "totalPrice": 179.98
+      },
+      {
+        "productId": "PROD-9575",
+        "productName": "Tablet Stand",
+        "quantity": 2,
+        "unitPrice": 22.99,
+        "totalPrice": 45.98
+      },
+      {
+        "productId": "PROD-7024",
+        "productName": "Monitor 27\"",
+        "quantity": 1,
+        "unitPrice": 349.99,
+        "totalPrice": 349.99
+      },
+      {
+        "productId": "PROD-3920",
+        "productName": "Power Bank",
+        "quantity": 1,
+        "unitPrice": 34.99,
+        "totalPrice": 34.99
+      }
+    ],
+    "orderValue": 730.91,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "1404 Pine Rd",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "48862"
+    }
+  },
+  {
+    "id": "ORD-000045",
+    "customerId": "CUST-00159",
+    "customerName": "Richard Walker",
+    "orderDate": "2025-11-02T06:47:38.287Z",
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ"
+    },
+    "items": [
+      {
+        "productId": "PROD-5530",
+        "productName": "Wireless Charger",
+        "quantity": 1,
+        "unitPrice": 29.99,
+        "totalPrice": 29.99
+      },
+      {
+        "productId": "PROD-4908",
+        "productName": "Monitor 27\"",
+        "quantity": 2,
+        "unitPrice": 349.99,
+        "totalPrice": 699.98
+      },
+      {
+        "productId": "PROD-7606",
+        "productName": "Webcam HD",
+        "quantity": 2,
+        "unitPrice": 89.99,
+        "totalPrice": 179.98
+      },
+      {
+        "productId": "PROD-2047",
+        "productName": "External SSD 1TB",
+        "quantity": 3,
+        "unitPrice": 119.99,
+        "totalPrice": 359.97
+      }
+    ],
+    "orderValue": 1269.92,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "5768 Broadway",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zipCode": "97883"
+    }
+  },
+  {
+    "id": "ORD-000046",
+    "customerId": "CUST-00171",
+    "customerName": "David Martinez",
+    "orderDate": "2025-11-11T06:47:38.287Z",
+    "location": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "items": [
+      {
+        "productId": "PROD-3838",
+        "productName": "Laptop Backpack",
+        "quantity": 3,
+        "unitPrice": 54.99,
+        "totalPrice": 164.97
+      },
+      {
+        "productId": "PROD-5663",
+        "productName": "Phone Case",
+        "quantity": 3,
+        "unitPrice": 19.99,
+        "totalPrice": 59.97
+      },
+      {
+        "productId": "PROD-6491",
+        "productName": "Laptop Stand",
+        "quantity": 1,
+        "unitPrice": 39.99,
+        "totalPrice": 39.99
+      },
+      {
+        "productId": "PROD-7681",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 3,
+        "unitPrice": 149.99,
+        "totalPrice": 449.97
+      }
+    ],
+    "orderValue": 714.9,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "6737 Sunset Blvd",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "79853"
+    }
+  },
+  {
+    "id": "ORD-000047",
+    "customerId": "CUST-00267",
+    "customerName": "Linda Wilson",
+    "orderDate": "2025-12-28T06:47:38.287Z",
+    "location": {
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "items": [
+      {
+        "productId": "PROD-3116",
+        "productName": "USB-C Cable",
+        "quantity": 2,
+        "unitPrice": 14.99,
+        "totalPrice": 29.98
+      },
+      {
+        "productId": "PROD-1219",
+        "productName": "Laptop Stand",
+        "quantity": 3,
+        "unitPrice": 39.99,
+        "totalPrice": 119.97
+      }
+    ],
+    "orderValue": 149.95,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "5804 Main St",
+      "city": "Atlanta",
+      "state": "GA",
+      "zipCode": "23893"
+    }
+  },
+  {
+    "id": "ORD-000048",
+    "customerId": "CUST-00447",
+    "customerName": "Daniel Anderson",
+    "orderDate": "2026-01-15T06:47:38.287Z",
+    "location": {
+      "city": "Houston",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-8994",
+        "productName": "Smart Watch",
+        "quantity": 2,
+        "unitPrice": 249.99,
+        "totalPrice": 499.98
+      },
+      {
+        "productId": "PROD-5838",
+        "productName": "Power Bank",
+        "quantity": 2,
+        "unitPrice": 34.99,
+        "totalPrice": 69.98
+      },
+      {
+        "productId": "PROD-2666",
+        "productName": "Wireless Headphones",
+        "quantity": 2,
+        "unitPrice": 79.99,
+        "totalPrice": 159.98
+      },
+      {
+        "productId": "PROD-3075",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 1,
+        "unitPrice": 149.99,
+        "totalPrice": 149.99
+      }
+    ],
+    "orderValue": 879.93,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "4478 Cedar Ln",
+      "city": "San Antonio",
+      "state": "TX",
+      "zipCode": "55498"
+    }
+  },
+  {
+    "id": "ORD-000049",
+    "customerId": "CUST-00454",
+    "customerName": "Nancy Jones",
+    "orderDate": "2025-12-19T06:47:38.287Z",
+    "location": {
+      "city": "Jacksonville",
+      "state": "FL"
+    },
+    "items": [
+      {
+        "productId": "PROD-5791",
+        "productName": "Laptop Backpack",
+        "quantity": 1,
+        "unitPrice": 54.99,
+        "totalPrice": 54.99
+      },
+      {
+        "productId": "PROD-4109",
+        "productName": "Wireless Charger",
+        "quantity": 3,
+        "unitPrice": 29.99,
+        "totalPrice": 89.97
+      },
+      {
+        "productId": "PROD-7838",
+        "productName": "Bluetooth Speaker",
+        "quantity": 3,
+        "unitPrice": 49.99,
+        "totalPrice": 149.97
+      },
+      {
+        "productId": "PROD-6884",
+        "productName": "Mechanical Keyboard",
+        "quantity": 3,
+        "unitPrice": 129.99,
+        "totalPrice": 389.97
+      }
+    ],
+    "orderValue": 684.9,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "834 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "50177"
+    }
+  },
+  {
+    "id": "ORD-000050",
+    "customerId": "CUST-00326",
+    "customerName": "Daniel Rodriguez",
+    "orderDate": "2025-11-12T06:47:38.287Z",
+    "location": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "items": [
+      {
+        "productId": "PROD-1952",
+        "productName": "Power Bank",
+        "quantity": 3,
+        "unitPrice": 34.99,
+        "totalPrice": 104.97
+      },
+      {
+        "productId": "PROD-5869",
+        "productName": "Desk Lamp",
+        "quantity": 3,
+        "unitPrice": 44.99,
+        "totalPrice": 134.97
+      },
+      {
+        "productId": "PROD-7982",
+        "productName": "Laptop Stand",
+        "quantity": 1,
+        "unitPrice": 39.99,
+        "totalPrice": 39.99
+      }
+    ],
+    "orderValue": 279.93,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "3381 Hill Rd",
+      "city": "Houston",
+      "state": "TX",
+      "zipCode": "56072"
+    }
+  },
+  {
+    "id": "ORD-000051",
+    "customerId": "CUST-00308",
+    "customerName": "Richard Moore",
+    "orderDate": "2025-10-29T06:47:38.287Z",
+    "location": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "items": [
+      {
+        "productId": "PROD-9078",
+        "productName": "Power Bank",
+        "quantity": 1,
+        "unitPrice": 34.99,
+        "totalPrice": 34.99
+      },
+      {
+        "productId": "PROD-1676",
+        "productName": "External SSD 1TB",
+        "quantity": 3,
+        "unitPrice": 119.99,
+        "totalPrice": 359.97
+      },
+      {
+        "productId": "PROD-2621",
+        "productName": "Wireless Headphones",
+        "quantity": 1,
+        "unitPrice": 79.99,
+        "totalPrice": 79.99
+      },
+      {
+        "productId": "PROD-8853",
+        "productName": "Phone Case",
+        "quantity": 1,
+        "unitPrice": 19.99,
+        "totalPrice": 19.99
+      },
+      {
+        "productId": "PROD-3644",
+        "productName": "Wireless Charger",
+        "quantity": 3,
+        "unitPrice": 29.99,
+        "totalPrice": 89.97
+      }
+    ],
+    "orderValue": 584.91,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "4169 Broadway",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zipCode": "64583"
+    }
+  },
+  {
+    "id": "ORD-000052",
+    "customerId": "CUST-00322",
+    "customerName": "Thomas Johnson",
+    "orderDate": "2025-12-29T06:47:38.287Z",
+    "location": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "items": [
+      {
+        "productId": "PROD-1997",
+        "productName": "Gaming Mouse",
+        "quantity": 3,
+        "unitPrice": 59.99,
+        "totalPrice": 179.97
+      },
+      {
+        "productId": "PROD-9778",
+        "productName": "Laptop Backpack",
+        "quantity": 1,
+        "unitPrice": 54.99,
+        "totalPrice": 54.99
+      },
+      {
+        "productId": "PROD-8741",
+        "productName": "Mechanical Keyboard",
+        "quantity": 2,
+        "unitPrice": 129.99,
+        "totalPrice": 259.98
+      }
+    ],
+    "orderValue": 494.94,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "3525 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "32361"
+    }
+  },
+  {
+    "id": "ORD-000053",
+    "customerId": "CUST-00430",
+    "customerName": "Richard Anderson",
+    "orderDate": "2025-12-15T06:47:38.287Z",
+    "location": {
+      "city": "Jacksonville",
+      "state": "FL"
+    },
+    "items": [
+      {
+        "productId": "PROD-1733",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 1,
+        "unitPrice": 149.99,
+        "totalPrice": 149.99
+      },
+      {
+        "productId": "PROD-1955",
+        "productName": "Phone Case",
+        "quantity": 1,
+        "unitPrice": 19.99,
+        "totalPrice": 19.99
+      },
+      {
+        "productId": "PROD-5338",
+        "productName": "Tablet Stand",
+        "quantity": 2,
+        "unitPrice": 22.99,
+        "totalPrice": 45.98
+      }
+    ],
+    "orderValue": 215.96,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "318 Pine Rd",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "88720"
+    }
+  },
+  {
+    "id": "ORD-000054",
+    "customerId": "CUST-00157",
+    "customerName": "Linda Hernandez",
+    "orderDate": "2026-01-15T06:47:38.287Z",
+    "location": {
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "items": [
+      {
+        "productId": "PROD-3717",
+        "productName": "Wireless Headphones",
+        "quantity": 3,
+        "unitPrice": 79.99,
+        "totalPrice": 239.97
+      },
+      {
+        "productId": "PROD-8795",
+        "productName": "Mechanical Keyboard",
+        "quantity": 2,
+        "unitPrice": 129.99,
+        "totalPrice": 259.98
+      },
+      {
+        "productId": "PROD-4116",
+        "productName": "Gaming Mouse",
+        "quantity": 2,
+        "unitPrice": 59.99,
+        "totalPrice": 119.98
+      },
+      {
+        "productId": "PROD-9095",
+        "productName": "Power Bank",
+        "quantity": 2,
+        "unitPrice": 34.99,
+        "totalPrice": 69.98
+      },
+      {
+        "productId": "PROD-1138",
+        "productName": "Wireless Charger",
+        "quantity": 3,
+        "unitPrice": 29.99,
+        "totalPrice": 89.97
+      }
+    ],
+    "orderValue": 779.88,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "2672 Lake St",
+      "city": "San Antonio",
+      "state": "TX",
+      "zipCode": "41604"
+    }
+  },
+  {
+    "id": "ORD-000055",
+    "customerId": "CUST-00272",
+    "customerName": "Joseph Walker",
+    "orderDate": "2025-12-24T06:47:38.287Z",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "items": [
+      {
+        "productId": "PROD-9070",
+        "productName": "Laptop Backpack",
+        "quantity": 2,
+        "unitPrice": 54.99,
+        "totalPrice": 109.98
+      }
+    ],
+    "orderValue": 109.98,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "7320 Main St",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "23920"
+    }
+  },
+  {
+    "id": "ORD-000056",
+    "customerId": "CUST-00365",
+    "customerName": "Jennifer Walker",
+    "orderDate": "2025-11-26T06:47:38.287Z",
+    "location": {
+      "city": "Houston",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-1086",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 2,
+        "unitPrice": 149.99,
+        "totalPrice": 299.98
+      },
+      {
+        "productId": "PROD-3611",
+        "productName": "Power Bank",
+        "quantity": 1,
+        "unitPrice": 34.99,
+        "totalPrice": 34.99
+      },
+      {
+        "productId": "PROD-4916",
+        "productName": "Bluetooth Speaker",
+        "quantity": 2,
+        "unitPrice": 49.99,
+        "totalPrice": 99.98
+      },
+      {
+        "productId": "PROD-2227",
+        "productName": "Webcam HD",
+        "quantity": 3,
+        "unitPrice": 89.99,
+        "totalPrice": 269.97
+      }
+    ],
+    "orderValue": 704.92,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "1718 Broadway",
+      "city": "Portland",
+      "state": "OR",
+      "zipCode": "34957"
+    }
+  },
+  {
+    "id": "ORD-000057",
+    "customerId": "CUST-00289",
+    "customerName": "Charles Williams",
+    "orderDate": "2025-11-28T06:47:38.287Z",
+    "location": {
+      "city": "Las Vegas",
+      "state": "NV"
+    },
+    "items": [
+      {
+        "productId": "PROD-4729",
+        "productName": "Desk Lamp",
+        "quantity": 2,
+        "unitPrice": 44.99,
+        "totalPrice": 89.98
+      },
+      {
+        "productId": "PROD-8179",
+        "productName": "Wireless Headphones",
+        "quantity": 2,
+        "unitPrice": 79.99,
+        "totalPrice": 159.98
+      },
+      {
+        "productId": "PROD-6158",
+        "productName": "Wireless Charger",
+        "quantity": 2,
+        "unitPrice": 29.99,
+        "totalPrice": 59.98
+      },
+      {
+        "productId": "PROD-7942",
+        "productName": "External SSD 1TB",
+        "quantity": 3,
+        "unitPrice": 119.99,
+        "totalPrice": 359.97
+      }
+    ],
+    "orderValue": 669.91,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "6370 Main St",
+      "city": "Boston",
+      "state": "MA",
+      "zipCode": "53424"
+    }
+  },
+  {
+    "id": "ORD-000058",
+    "customerId": "CUST-00224",
+    "customerName": "Barbara Brown",
+    "orderDate": "2026-01-02T06:47:38.287Z",
+    "location": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "items": [
+      {
+        "productId": "PROD-8394",
+        "productName": "Mechanical Keyboard",
+        "quantity": 3,
+        "unitPrice": 129.99,
+        "totalPrice": 389.97
+      },
+      {
+        "productId": "PROD-5192",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 3,
+        "unitPrice": 24.99,
+        "totalPrice": 74.97
+      },
+      {
+        "productId": "PROD-6918",
+        "productName": "Tablet Stand",
+        "quantity": 2,
+        "unitPrice": 22.99,
+        "totalPrice": 45.98
+      }
+    ],
+    "orderValue": 510.92,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "6087 Pine Rd",
+      "city": "San Jose",
+      "state": "CA",
+      "zipCode": "67973"
+    }
+  },
+  {
+    "id": "ORD-000059",
+    "customerId": "CUST-00470",
+    "customerName": "Susan Taylor",
+    "orderDate": "2025-10-31T06:47:38.287Z",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "items": [
+      {
+        "productId": "PROD-6988",
+        "productName": "USB-C Cable",
+        "quantity": 2,
+        "unitPrice": 14.99,
+        "totalPrice": 29.98
+      }
+    ],
+    "orderValue": 29.98,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "146 Hill Rd",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "84167"
+    }
+  },
+  {
+    "id": "ORD-000060",
+    "customerId": "CUST-00036",
+    "customerName": "David Hernandez",
+    "orderDate": "2025-12-23T06:47:38.287Z",
+    "location": {
+      "city": "San Diego",
+      "state": "CA"
+    },
+    "items": [
+      {
+        "productId": "PROD-9862",
+        "productName": "Monitor 27\"",
+        "quantity": 2,
+        "unitPrice": 349.99,
+        "totalPrice": 699.98
+      },
+      {
+        "productId": "PROD-4741",
+        "productName": "Bluetooth Speaker",
+        "quantity": 1,
+        "unitPrice": 49.99,
+        "totalPrice": 49.99
+      },
+      {
+        "productId": "PROD-2632",
+        "productName": "Phone Case",
+        "quantity": 2,
+        "unitPrice": 19.99,
+        "totalPrice": 39.98
+      },
+      {
+        "productId": "PROD-8397",
+        "productName": "Ergonomic Chair",
+        "quantity": 1,
+        "unitPrice": 299.99,
+        "totalPrice": 299.99
+      }
+    ],
+    "orderValue": 1089.94,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "1750 Sunset Blvd",
+      "city": "Dallas",
+      "state": "TX",
+      "zipCode": "73325"
+    }
+  },
+  {
+    "id": "ORD-000061",
+    "customerId": "CUST-00258",
+    "customerName": "Karen Johnson",
+    "orderDate": "2025-11-07T06:47:38.287Z",
+    "location": {
+      "city": "Detroit",
+      "state": "MI"
+    },
+    "items": [
+      {
+        "productId": "PROD-3798",
+        "productName": "Tablet Stand",
+        "quantity": 3,
+        "unitPrice": 22.99,
+        "totalPrice": 68.97
+      },
+      {
+        "productId": "PROD-8581",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 3,
+        "unitPrice": 149.99,
+        "totalPrice": 449.97
+      },
+      {
+        "productId": "PROD-8077",
+        "productName": "Ergonomic Chair",
+        "quantity": 1,
+        "unitPrice": 299.99,
+        "totalPrice": 299.99
+      }
+    ],
+    "orderValue": 818.93,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "5533 Market St",
+      "city": "San Diego",
+      "state": "CA",
+      "zipCode": "41181"
+    }
+  },
+  {
+    "id": "ORD-000062",
+    "customerId": "CUST-00025",
+    "customerName": "Jessica Walker",
+    "orderDate": "2025-12-23T06:47:38.287Z",
+    "location": {
+      "city": "Miami",
+      "state": "FL"
+    },
+    "items": [
+      {
+        "productId": "PROD-1765",
+        "productName": "Wireless Charger",
+        "quantity": 2,
+        "unitPrice": 29.99,
+        "totalPrice": 59.98
+      },
+      {
+        "productId": "PROD-3606",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 2,
+        "unitPrice": 149.99,
+        "totalPrice": 299.98
+      },
+      {
+        "productId": "PROD-9929",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 2,
+        "unitPrice": 24.99,
+        "totalPrice": 49.98
+      }
+    ],
+    "orderValue": 409.94,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "9989 Oak Ave",
+      "city": "Detroit",
+      "state": "MI",
+      "zipCode": "30145"
+    }
+  },
+  {
+    "id": "ORD-000063",
+    "customerId": "CUST-00036",
+    "customerName": "Susan Taylor",
+    "orderDate": "2025-12-16T06:47:38.287Z",
+    "location": {
+      "city": "Detroit",
+      "state": "MI"
+    },
+    "items": [
+      {
+        "productId": "PROD-2141",
+        "productName": "Power Bank",
+        "quantity": 2,
+        "unitPrice": 34.99,
+        "totalPrice": 69.98
+      },
+      {
+        "productId": "PROD-5741",
+        "productName": "Wireless Charger",
+        "quantity": 2,
+        "unitPrice": 29.99,
+        "totalPrice": 59.98
+      },
+      {
+        "productId": "PROD-5065",
+        "productName": "Laptop Backpack",
+        "quantity": 3,
+        "unitPrice": 54.99,
+        "totalPrice": 164.97
+      }
+    ],
+    "orderValue": 294.93,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "9638 Park Ave",
+      "city": "Atlanta",
+      "state": "GA",
+      "zipCode": "11062"
+    }
+  },
+  {
+    "id": "ORD-000064",
+    "customerId": "CUST-00298",
+    "customerName": "Lisa Hernandez",
+    "orderDate": "2026-01-03T06:47:38.287Z",
+    "location": {
+      "city": "Dallas",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-8732",
+        "productName": "USB-C Cable",
+        "quantity": 1,
+        "unitPrice": 14.99,
+        "totalPrice": 14.99
+      },
+      {
+        "productId": "PROD-1580",
+        "productName": "Mechanical Keyboard",
+        "quantity": 1,
+        "unitPrice": 129.99,
+        "totalPrice": 129.99
+      },
+      {
+        "productId": "PROD-4909",
+        "productName": "Ergonomic Chair",
+        "quantity": 1,
+        "unitPrice": 299.99,
+        "totalPrice": 299.99
+      },
+      {
+        "productId": "PROD-7321",
+        "productName": "Gaming Mouse",
+        "quantity": 2,
+        "unitPrice": 59.99,
+        "totalPrice": 119.98
+      }
+    ],
+    "orderValue": 564.95,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "9478 Forest Ln",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zipCode": "80213"
+    }
+  },
+  {
+    "id": "ORD-000065",
+    "customerId": "CUST-00279",
+    "customerName": "Thomas Allen",
+    "orderDate": "2026-01-24T06:47:38.287Z",
+    "location": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "items": [
+      {
+        "productId": "PROD-5937",
+        "productName": "Laptop Stand",
+        "quantity": 1,
+        "unitPrice": 39.99,
+        "totalPrice": 39.99
+      },
+      {
+        "productId": "PROD-4061",
+        "productName": "Desk Lamp",
+        "quantity": 2,
+        "unitPrice": 44.99,
+        "totalPrice": 89.98
+      },
+      {
+        "productId": "PROD-6782",
+        "productName": "Tablet Stand",
+        "quantity": 3,
+        "unitPrice": 22.99,
+        "totalPrice": 68.97
+      },
+      {
+        "productId": "PROD-8086",
+        "productName": "Mechanical Keyboard",
+        "quantity": 3,
+        "unitPrice": 129.99,
+        "totalPrice": 389.97
+      },
+      {
+        "productId": "PROD-7827",
+        "productName": "External SSD 1TB",
+        "quantity": 2,
+        "unitPrice": 119.99,
+        "totalPrice": 239.98
+      }
+    ],
+    "orderValue": 828.89,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "6685 Forest Ln",
+      "city": "Detroit",
+      "state": "MI",
+      "zipCode": "78652"
+    }
+  },
+  {
+    "id": "ORD-000066",
+    "customerId": "CUST-00393",
+    "customerName": "Robert Jackson",
+    "orderDate": "2026-01-16T06:47:38.287Z",
+    "location": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "items": [
+      {
+        "productId": "PROD-7723",
+        "productName": "Monitor 27\"",
+        "quantity": 1,
+        "unitPrice": 349.99,
+        "totalPrice": 349.99
+      },
+      {
+        "productId": "PROD-3372",
+        "productName": "Desk Lamp",
+        "quantity": 3,
+        "unitPrice": 44.99,
+        "totalPrice": 134.97
+      },
+      {
+        "productId": "PROD-6332",
+        "productName": "Wireless Charger",
+        "quantity": 3,
+        "unitPrice": 29.99,
+        "totalPrice": 89.97
+      },
+      {
+        "productId": "PROD-2275",
+        "productName": "USB-C Cable",
+        "quantity": 3,
+        "unitPrice": 14.99,
+        "totalPrice": 44.97
+      }
+    ],
+    "orderValue": 619.9,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "9069 Pine Rd",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "62441"
+    }
+  },
+  {
+    "id": "ORD-000067",
+    "customerId": "CUST-00228",
+    "customerName": "Jessica Martin",
+    "orderDate": "2026-01-24T06:47:38.287Z",
+    "location": {
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "items": [
+      {
+        "productId": "PROD-9239",
+        "productName": "Wireless Charger",
+        "quantity": 1,
+        "unitPrice": 29.99,
+        "totalPrice": 29.99
+      },
+      {
+        "productId": "PROD-1438",
+        "productName": "Smart Watch",
+        "quantity": 3,
+        "unitPrice": 249.99,
+        "totalPrice": 749.97
+      },
+      {
+        "productId": "PROD-2309",
+        "productName": "Mechanical Keyboard",
+        "quantity": 3,
+        "unitPrice": 129.99,
+        "totalPrice": 389.97
+      },
+      {
+        "productId": "PROD-3260",
+        "productName": "Laptop Stand",
+        "quantity": 3,
+        "unitPrice": 39.99,
+        "totalPrice": 119.97
+      }
+    ],
+    "orderValue": 1289.9,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "1584 Pine Rd",
+      "city": "San Jose",
+      "state": "CA",
+      "zipCode": "46470"
+    }
+  },
+  {
+    "id": "ORD-000068",
+    "customerId": "CUST-00260",
+    "customerName": "Michael Hall",
+    "orderDate": "2026-01-11T06:47:38.287Z",
+    "location": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "items": [
+      {
+        "productId": "PROD-6330",
+        "productName": "Tablet Stand",
+        "quantity": 1,
+        "unitPrice": 22.99,
+        "totalPrice": 22.99
+      },
+      {
+        "productId": "PROD-5667",
+        "productName": "Monitor 27\"",
+        "quantity": 1,
+        "unitPrice": 349.99,
+        "totalPrice": 349.99
+      },
+      {
+        "productId": "PROD-7539",
+        "productName": "Gaming Mouse",
+        "quantity": 3,
+        "unitPrice": 59.99,
+        "totalPrice": 179.97
+      },
+      {
+        "productId": "PROD-4442",
+        "productName": "Ergonomic Chair",
+        "quantity": 3,
+        "unitPrice": 299.99,
+        "totalPrice": 899.97
+      }
+    ],
+    "orderValue": 1452.92,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "9530 Cedar Ln",
+      "city": "San Jose",
+      "state": "CA",
+      "zipCode": "85354"
+    }
+  },
+  {
+    "id": "ORD-000069",
+    "customerId": "CUST-00217",
+    "customerName": "Linda Hernandez",
+    "orderDate": "2025-11-04T06:47:38.287Z",
+    "location": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "items": [
+      {
+        "productId": "PROD-1631",
+        "productName": "Monitor 27\"",
+        "quantity": 2,
+        "unitPrice": 349.99,
+        "totalPrice": 699.98
+      },
+      {
+        "productId": "PROD-7339",
+        "productName": "Screen Protector",
+        "quantity": 3,
+        "unitPrice": 12.99,
+        "totalPrice": 38.97
+      },
+      {
+        "productId": "PROD-7804",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 3,
+        "unitPrice": 149.99,
+        "totalPrice": 449.97
+      }
+    ],
+    "orderValue": 1188.92,
+    "status": "delivered",
+    "shippingAddress": {
+      "street": "7749 Broadway",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "59690"
+    }
+  },
+  {
+    "id": "ORD-000070",
+    "customerId": "CUST-00063",
+    "customerName": "Susan Hernandez",
+    "orderDate": "2025-12-08T06:47:38.287Z",
+    "location": {
+      "city": "San Antonio",
+      "state": "TX"
+    },
+    "items": [
+      {
+        "productId": "PROD-2276",
+        "productName": "Screen Protector",
+        "quantity": 2,
+        "unitPrice": 12.99,
+        "totalPrice": 25.98
+      },
+      {
+        "productId": "PROD-9841",
+        "productName": "External SSD 1TB",
+        "quantity": 3,
+        "unitPrice": 119.99,
+        "totalPrice": 359.97
+      },
+      {
+        "productId": "PROD-9034",
+        "productName": "Bluetooth Speaker",
+        "quantity": 3,
+        "unitPrice": 49.99,
+        "totalPrice": 149.97
+      },
+      {
+        "productId": "PROD-3013",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 1,
+        "unitPrice": 149.99,
+        "totalPrice": 149.99
+      },
+      {
+        "productId": "PROD-2321",
+        "productName": "Laptop Backpack",
+        "quantity": 1,
+        "unitPrice": 54.99,
+        "totalPrice": 54.99
+      }
+    ],
+    "orderValue": 740.9,
+    "status": "shipped",
+    "shippingAddress": {
+      "street": "5474 Oak Ave",
+      "city": "San Antonio",
+      "state": "TX",
+      "zipCode": "99996"
+    }
+  },
+  {
+    "id": "ORD-000071",
+    "customerId": "CUST-00167",
+    "customerName": "Robert Hall",
+    "orderDate": "2025-12-01T06:47:38.287Z",
+    "location": {
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "items": [
+      {
+        "productId": "PROD-3402",
+        "productName": "Webcam HD",
+        "quantity": 2,
+        "unitPrice": 89.99,
+        "totalPrice": 179.98
+      },
+      {
+        "productId": "PROD-8866",
+        "productName": "Smart Watch",
+        "quantity": 1,
+        "unitPrice": 249.99,
+        "totalPrice": 249.99
+      },
+      {
+        "productId": "PROD-5806",
+        "productName": "Bluetooth Speaker",
+        "quantity": 3,
+        "unitPrice": 49.99,
+        "totalPrice": 149.97
+      }
+    ],
+    "orderValue": 579.94,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "8386 Hill Rd",
+      "city": "San Antonio",
+      "state": "TX",
+      "zipCode": "82247"
+    }
+  },
+  {
+    "id": "ORD-000072",
+    "customerId": "CUST-00052",
+    "customerName": "Patricia Moore",
+    "orderDate": "2025-11-03T06:47:38.287Z",
+    "location": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "items": [
+      {
+        "productId": "PROD-3104",
+        "productName": "Mechanical Keyboard",
+        "quantity": 2,
+        "unitPrice": 129.99,
+        "totalPrice": 259.98
+      },
+      {
+        "productId": "PROD-6043",
+        "productName": "External SSD 1TB",
+        "quantity": 2,
+        "unitPrice": 119.99,
+        "totalPrice": 239.98
+      },
+      {
+        "productId": "PROD-6350",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 1,
+        "unitPrice": 149.99,
+        "totalPrice": 149.99
+      },
+      {
+        "productId": "PROD-1803",
+        "productName": "USB-C Cable",
+        "quantity": 2,
+        "unitPrice": 14.99,
+        "totalPrice": 29.98
+      }
+    ],
+    "orderValue": 679.93,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "6913 Maple Dr",
+      "city": "San Jose",
+      "state": "CA",
+      "zipCode": "71957"
+    }
+  },
+  {
+    "id": "ORD-000073",
+    "customerId": "CUST-00172",
+    "customerName": "Mary Rodriguez",
+    "orderDate": "2025-12-17T06:47:38.287Z",
+    "location": {
+      "city": "Phoenix",
+      "state": "AZ"
+    },
+    "items": [
+      {
+        "productId": "PROD-7614",
+        "productName": "Coffee Mug Warmer",
+        "quantity": 3,
+        "unitPrice": 24.99,
+        "totalPrice": 74.97
+      }
+    ],
+    "orderValue": 74.97,
+    "status": "processing",
+    "shippingAddress": {
+      "street": "9526 Market St",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "94769"
+    }
+  },
+  {
+    "id": "ORD-000074",
+    "customerId": "CUST-00230",
+    "customerName": "Mary Moore",
+    "orderDate": "2025-12-14T06:47:38.287Z",
+    "location": {
+      "city": "San Jose",
+      "state": "CA"
+    },
+    "items": [
+      {
+        "productId": "PROD-8350",
+        "productName": "External SSD 1TB",
+        "quantity": 1,
+        "unitPrice": 119.99,
+        "totalPrice": 119.99
+      },
+      {
+        "productId": "PROD-6419",
+        "productName": "Laptop Stand",
+        "quantity": 2,
+        "unitPrice": 39.99,
+        "totalPrice": 79.98
+      }
+    ],
+    "orderValue": 199.97,
+    "status": "cancelled",
+    "shippingAddress": {
+      "street": "9309 River Dr",
+      "city": "Detroit",
+      "state": "MI",
+      "zipCode": "71897"
+    }
+  },
+  {
+    "id": "ORD-000075",
+    "customerId": "CUST-00160",
+    "customerName": "Michael Jones",
+    "orderDate": "2025-11-10T06:47:38.287Z",
+    "location": {
+      "city": "San Diego",
+      "state": "CA"
+    },
+    "items": [
+      {
+        "productId": "PROD-9381",
+        "productName": "Power Bank",
+        "quantity": 3,
+        "unitPrice": 34.99,
+        "totalPrice": 104.97
+      },
+      {
+        "productId": "PROD-7722",
+        "productName": "USB-C Cable",
+        "quantity": 1,
+        "unitPrice": 14.99,
+        "totalPrice": 14.99
+      },
+      {
+        "productId": "PROD-4428",
+        "productName": "Laptop Stand",
+        "quantity": 3,
+        "unitPrice": 39.99,
+        "totalPrice": 119.97
+      },
+      {
+        "productId": "PROD-6710",
+        "productName": "Noise Cancelling Earbuds",
+        "quantity": 3,
+        "unitPrice": 149.99,
+        "totalPrice": 449.97
+      },
+      {
+        "productId": "PROD-6917",
+        "productName": "External SSD 1TB",
+        "quantity": 1,
+        "unitPrice": 119.99,
+        "totalPrice": 119.99
+      }
+    ],
+    "orderValue": 809.89,
+    "status": "pending",
+    "shippingAddress": {
+      "street": "8740 Hill Rd",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "44087"
+    }
+  }
+]

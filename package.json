@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce-orders-api",
+  "version": "1.0.0",
+  "description": "Simple e-commerce page with REST API for mock orders",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "generate-data": "node generateData.js"
+  },
+  "keywords": ["ecommerce", "api", "express"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce-orders-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for the ecommerce-orders API",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.3",
+    "node-fetch": "^3.3.2",
+    "zod": "^4.3.6"
+  }
+}
